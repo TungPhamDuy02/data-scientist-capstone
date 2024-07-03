@@ -1,6 +1,6 @@
 # Data Scientist Capstone Project
 
-Link post on Medium: https://medium.com/@phamduytung999/does-the-sentiment-of-investors-on-twitter-x-influence-the-price-volatility-of-bitcoin-9c8be54fe26c
+Link post on Medium: https://medium.com/@phamduytung999/does-the-sentiment-of-investors-on-twitter-x-influence-the-price-volatility-of-bitcoin-9c8be54fe26c  
 ![post_background](images/post_background.jpg)
 
 ## Project Overview 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 Run the notebook
 
 ## Acknowledge: 
-The original source of this dataset is on Kaggle: [Link](https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets)
-This dataset is extracted from Twitter in it given period, using API connection and python script. The author is only responsible for collecting them.
+The original source of this dataset is on Kaggle: [Link](https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets)  
+This dataset is extracted from Twitter in it given period, using API connection and python script. The author is only responsible for collecting them.  
 ![dataset_overview](images/dataset_overview.png)
 
