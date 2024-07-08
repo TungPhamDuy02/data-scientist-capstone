@@ -1,6 +1,7 @@
 # Data Scientist Capstone Project
 
 Link post on Medium: https://medium.com/@phamduytung999/does-the-sentiment-of-investors-on-twitter-x-influence-the-price-volatility-of-bitcoin-9c8be54fe26c  
+
 ![post_background](images/post_background.jpg)
 
 ## Project Overview 
